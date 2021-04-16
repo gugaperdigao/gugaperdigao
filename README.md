@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavoperdigo4)](https://twitter.com/gustavoperdigo4)
 
 ### About me
-I'm a full stack developer developer.
+I'm a full stack developer.
 
 ##
  
