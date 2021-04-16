@@ -22,8 +22,8 @@ I'm a full stack developer.
   <img align="center" alt="guga-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="guga-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img align="center" alt="guga-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="guga-pt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/masterr/icons/python/python-original.svg">
+ <img align="center" alt="guga-pt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="guga-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  <img align="center" alt="guga-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
- <img align="center" alt="guga-apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/masterr/icons/apple/apple-original.svg">
+ <img align="center" alt="guga-apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 </div>
